@@ -1,14 +1,8 @@
 Esta es la historia de wilmar malaver
 
-Wilmar malaver tiene 27 años vive en colombia y es estudiante de platzi de la beca 
-empoderatech.
+Wilmar malaver tiene 27 años y es estudiante de platzi de la beca 
+enpoderatech.
 
 le gusta el anime y el manga y tambien coleccionar figura de anime.
 
-Agregando comandos del curso de git
-
- -git commit --amend -m “nuevo mensaje” // sirve para cambiar el ultimo mensaje de tu commit.
-
- -git show nombre_del_archivo // Nos compara el archivo mas reciente con uno anterior y nos muestra los cambios realizados.
-
- Combinacion de teclas de Esc + shif + zz para salir de un commit sin mensaje.
+-git checkout  nombre_commit y nombre_archivo para volver a commits anteriores.
