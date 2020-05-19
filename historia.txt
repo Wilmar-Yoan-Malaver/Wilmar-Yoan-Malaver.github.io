@@ -7,4 +7,6 @@ le gusta el anime y el manga y tambien coleccionar figura de anime.
 
 Agregando comandos del curso de git
 
-git commit --amend -m “nuevo mensaje” // sirve para cambiar el ultimo mensaje de tu commit
+ -git commit --amend -m “nuevo mensaje” // sirve para cambiar el ultimo mensaje de tu commit.
+
+ -git show nombre_del_archivo // Nos compara el archivo mas reciente con uno anterior y nos muestra los cambios realizados.
