@@ -36,3 +36,5 @@ Apuntes tomados por "Wilmar Malaver " del curso de Git y Github de Platzi.
 -git checkout nombre_del commit + nombre_del_archivo para modificarlo en el tiempo y quede en la version actual.
 
 -git clone url_servidor_remoto para clonar un proyecto de la rama principal
+
+Master 1
