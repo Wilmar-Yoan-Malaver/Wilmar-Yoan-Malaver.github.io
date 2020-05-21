@@ -1,11 +1,31 @@
-Esta es la historia de wilmar malaver
+Apuntes tomados por "Wilmar Malaver " del curso de Git y Github de Platzi.
 
-Wilmar malaver tiene 27 años vive en colombia y es estudiante de platzi de la beca 
-empoderatech.
+ -git init para comenzar nuestor repositorio de Git
 
-le gusta el anime y el manga y tambien coleccionar figura de anime.
+ -git add . || git add + nombre_del_archivo para añadirlo al staging
 
-Agregando comandos del curso de git
+ -git commit -m "+nombre_del_archivo" para añadir nuestro archivo al repositorio y dejar comentado con el commit lo que se ha hecho
+
+ -git status nos muestra los archivos que estan modificados seguido se realiza un git commit
+
+ -git commit -am "+nombre_del_archivo" este se lleva acavo cunado ya hemos añadido anterior mente con git commit -m 
+  adiccional anade el archivo a trakear y deja comentario del commit realizado.
+
+ -git log este nos muestra el historial del archivo
+
+ -git commit este nos salta una alerta para dejar el mensaje del commit la forma de insertar el mensaje es tecla "Esc" + tecla "i"
+
+ -git show muestra los cambios que ha tenido el archivo
+
+ -git diff con este podemos ver las diferencias entre archivos
+
+ -git reset nos permite volver a una version anterior
+
+  -git reset --hard todo vuelve al estado anterior
+  -git reset --soft lo deja en staging para realizar otro commit
+
+ -git reset head este comando es para sacar los archivos del staging, no para borrarlos, solo para que los cambios de los archivos no
+  se envien al ultimo commit  
 
  -git commit --amend -m “nuevo mensaje” // sirve para cambiar el ultimo mensaje de tu commit.
 
@@ -14,3 +34,5 @@ Agregando comandos del curso de git
  Combinacion de teclas de Esc + shif + zz para salir de un commit sin mensaje.
 
 -git checkout nombre_del commit + nombre_del_archivo para modificarlo en el tiempo y quede en la version actual.
+
+-git clone url_servidor_remoto para clonar un proyecto de la rama principal
